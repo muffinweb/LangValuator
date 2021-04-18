@@ -1,3 +1,14 @@
+<?php 
+
+/**
+ * LangValuator by Muffinweb <Ugur Cengiz>
+ * @author ugurcengiz@mail.com.tr
+ */
+ 
+ $timestamp = time();
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
